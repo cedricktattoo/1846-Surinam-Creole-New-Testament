@@ -1,3 +1,26 @@
-#README#
+# README #
 
-This project is an attempt to transcribe the full text of the 1846 edition of the Surinam Creole New Testament.  
+11/7/2012
+
+## Project Description ##
+This project is an effort to transcribe the full text of the 1846 edition of the Surinam-Creole New Testament.  
+
+The project has two phases:
+
+Phase 1: Transcribe the accompanying PDF file of _Da Njoe Testament vo wi Masra en Helpiman Jesus Kristus_ into a plain-text, machine-readable copy of the full text.
+
+Phase 2: Once the full text has been transcribed, the document will be marked up in XML using the Text Encoding Initiative (TEI) markup standard.  
+
+The project will begin with a small number of transcribers, and then opened up for crowd sourcing once a significant amount of transcribed texts have been accumulated as examples. 
+
+## Transcription Instructions ##
+
+1. All transcriptions will be done with a plain-text editor and saved as .txt files
+2. Each page of the source text (PDF) will be the basis of an individual transcription file. 
+3. Each page will be named according to the following pattern: pg001.txt, pg002.txt, pg003.txt... pg090.txt, pg091.txt, pg092txt..., etc.
+4. Pages may be transcribed in any order, as long as the individual text files are named properly and according to the naming convention set above.
+5.
+
+
+
+CONTINUED.....
