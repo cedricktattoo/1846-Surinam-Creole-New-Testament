@@ -1,6 +1,6 @@
 11/7/2012
 
-## Project Description ##
+# Project Description #
 This project is an effort to transcribe the full text of the 1846 edition of the Surinam-Creole New Testament.  
 
 The project has two phases:
