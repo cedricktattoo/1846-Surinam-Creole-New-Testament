@@ -11,7 +11,7 @@ Phase 2: Once the full text has been transcribed, the document will be marked up
 
 The project will begin with a small number of transcribers, and then opened up for crowd sourcing once a significant amount of transcribed texts have been accumulated as examples. 
 
-## Transcription Instructions ##
+# Transcription Instructions #
 
 1. All transcriptions will be done with a plain-text editor and saved as .txt files
 2. Each page of the source text (PDF) will be the basis of an individual transcription file. 
