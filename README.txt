@@ -1,5 +1,3 @@
-# README #
-
 11/7/2012
 
 ## Project Description ##
@@ -19,8 +17,5 @@ The project will begin with a small number of transcribers, and then opened up f
 2. Each page of the source text (PDF) will be the basis of an individual transcription file. 
 3. Each page will be named according to the following pattern: pg001.txt, pg002.txt, pg003.txt... pg090.txt, pg091.txt, pg092txt..., etc.
 4. Pages may be transcribed in any order, as long as the individual text files are named properly and according to the naming convention set above.
-5.
-
-
-
-CONTINUED.....
+5. Comments may be included in the transcriptions as long as they are surrounded by commenting code like so: /* Add your comments here */
+6. Words at the end of a line are split and hyphenated because of the end of a line will be transcribed *without* the hyphen.  Words that contain a hyphen but *are not* at the end of a line will remain hyphenated. 
