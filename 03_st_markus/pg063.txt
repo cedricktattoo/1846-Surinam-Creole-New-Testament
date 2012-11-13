@@ -1,4 +1,4 @@
-/* Horizontal Rule goes Here, separating the last two columns of St. Matteus from the first two columns of St. Markus on page 063*/
+/* Horizontal Rule goes Here, separating the last two columns of St. Matteus from the first two columns of St. Markus on page 063 */
 
 Da Evangelum vo St. Markus.
 
